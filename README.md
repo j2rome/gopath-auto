@@ -14,7 +14,7 @@ touch .gorc
 ```
 That's all.
 
-Now if you go in your project or into subdirectories, GOPATH variable is set where the ".gorc" file is found and command prompt displays the end of GOPATH.
+Now if you go in your project or in subdirectories, GOPATH variable is set where the ".gorc" file is found and command prompt displays the end of GOPATH.
 If you leave your project, GOPATH variable is unset.
 
 
